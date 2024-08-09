@@ -1,13 +1,13 @@
 # Job Posting BE (NodeJS Server)
 
-## Module 1: user (6 APIs)
+## Module 1: user (5 APIs)
 1. '/admin/register' - POST - to create a new admin
 2. '/candidate/register' - POST - to create a new candidate
 3. '/user/login' - POST - login for both users
 4. '/user/forgot-password' - POST - reset password
 5. '/user/user-by-token' - GET - get any type of user data by auth token
 
-## Module 2: consultation (5 APIs) '/job'
+## Module 2: job (9 APIs) '/job'
 1. '/add-category' - POST - to add a new category
 2. '/get-category-list' - GET - get all category list
 3. '/create-job' - POST - create a new job
